@@ -9,7 +9,7 @@
 ### 版本功能：
 ```
 实现dagre的点击事件
-实现node、link的css引入
+实现node、link、组件的Css style
 实现dagre的zoom
 ```
 ### 注意事项：
