@@ -1,5 +1,11 @@
 # dagre-d3-react-basic
 ## V1.0.0
+### 组件
+```
+--dagreComponentDemo
+  --src
+    --DagreAY.tsx
+```
 ### 版本功能：
 ```
 实现dagre的点击事件
