@@ -1,18 +1,14 @@
-# React-Typescript-dagre-d3
-## V1.0.0
-### 组件
-```
---dagreComponentDemo
-  --src
-    --DagreAY.tsx
-```
-### 版本功能：
+# React-Typescript-D3
+
+## 0 dagre-d3
+### 0-1 版本功能：
 ```
 实现dagre的点击事件
 实现node、link、组件的Css style
 实现dagre的zoom
+实现dagre的屏幕居中
 ```
-### 注意事项：
+### 0-2 注意事项：
 ```
 版本号的问题
 react-ts-d3 这个部分，容易出现 d3-selection、event不兼容的情况。
