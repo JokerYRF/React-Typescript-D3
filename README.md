@@ -17,5 +17,5 @@
 版本号的问题
 react-ts-d3 这个部分，容易出现 d3-selection、event不兼容的情况。
 出现的原因有多种，建议不要重复安装d3,dagre-d3
-如果之前有安装，建议删除nodemoudles模块，然后重新安装。
+如果之前有安装，建议删除node moudles模块，然后重新安装。
 ```
