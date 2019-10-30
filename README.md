@@ -3,6 +3,7 @@
 ## 0 dagre-d3
 ### 版本功能：
 ```
+组件D3-Dagre 可直接自取使用，并附TS-React-Demo
 实现dagre的点击事件
 实现node、link、组件的Css style
 实现dagre的zoom
